@@ -1,0 +1,4 @@
+com\techlab\demo\repository\ProductRepository.class
+com\techlab\demo\entity\Producto.class
+com\techlab\demo\controller\ProductController.class
+com\techlab\demo\DatosApplication.class
