@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Bienvenido a TTSpringboot</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #0f0f0f, #1b1b1b);
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: #f2f2f2;
+    }
+    .container {
+      background: #1e1e1e;
+      padding: 2.5rem 3rem;
+      border-radius: 12px;
+      text-align: center;
+      max-width: 520px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.6);
+      animation: fadein .8s ease;
+    }
+    h1 {
+      font-size: 1.6rem;
+      margin-bottom: 1.5rem;
+      color: #ffffff;
+    }
+    p {
+      margin: 0.9rem 0;
+      line-height: 1.5;
+    }
+    a {
+      color: #7ab8ff;
+      font-weight: bold;
+      text-decoration: none;
+      transition: color .2s ease;
+    }
+    a:hover {
+      color: #a7d1ff;
+      text-decoration: underline;
+    }
+    @keyframes fadein {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1>¡Bienvenidos a la entrega final del curso Spring Boot de Talentotech!</h1>
+
+  <p>Si deseas revisar el código fuente visitá:</p>
+  <p>Repositorio Frontend:<br>
+    <a href="https://github.com/pablomezadev/TT-React/tree/proyectoReact-para-final-backend-ecommerce-pablo-meza" target="_blank">
+      Ver proyecto en GitHub
+    </a>
+  </p>
+
+  <p>Repositorio Backend:<br>
+    <a href="https://github.com/pablomezadev/tt-backend-Java/tree/proyecto-final-backend-ecommerce-pablo-meza/docs" target="_blank">
+      Ver backend en GitHub
+    </a>
+  </p>
+
+    <p>Página web: <a href="https://mezattspringboot.netlify.app" target="_blank"
+                      rel="noopener noreferrer">https://mezattspringboot.netlify.app</a></p>
+</div>
+
+</body>
+</html>
