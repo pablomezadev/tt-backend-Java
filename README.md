@@ -26,12 +26,13 @@ endpoints pensados para integrarse fácilmente con un frontend.
 
 ## Enlaces importantes
 
-| Recurso                  | Enlace                                                                                                                                                                                                     |
-| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Sitio Frontend           | [https://mezattspringboot.netlify.app](https://mezattspringboot.netlify.app)                                                                                                                               |
-| Backend API              | [https://backendp](https://backendp)                                                                                                                                                                       |
-| Documentación de la API  | [https://backend](https://backend)                                                                                                                                                                         |
-| Repositorio del Frontend | [https://github.com/pablomezadev/TT-React/tree/proyectoReact-para-final-backend-ecommerce-pablo-meza](https://github.com/pablomezadev/TT-React/tree/proyectoReact-para-final-backend-ecommerce-pablo-meza) |
+| Recurso                       | Enlace                                                                                                                                                                                                     |
+|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Sitio Frontend                | [https://mezattspringboot.netlify.app](https://mezattspringboot.netlify.app)                                                                                                                               |
+| Sitio Frontend - admin (crud) | [https://mezattspringboot.netlify.app](https://mezattspringboot.netlify.app/admin)                                                                                                                         |
+| Backend API                   | [https://backendp](https://tt-backend-java.onrender.com)                                                                                                                                                                       |
+| Documentación de la API       | [https://backend](https://tt-backend-java)                                                                                                                                                                         |
+| Repositorio del Frontend      | [https://github.com/pablomezadev/TT-React/tree/proyectoReact-para-final-backend-ecommerce-pablo-meza](https://github.com/pablomezadev/TT-React/tree/proyectoReact-para-final-backend-ecommerce-pablo-meza) |
 
 ---
 
